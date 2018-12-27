@@ -1,0 +1,37 @@
+Feature,FeatureType,FeatureID,Abreviation
+ALL,ALL,ALL,ALL
+Synonymous codon usage,CDS,codonUsage,Synonymous codons
+Codon pair bias,CDS,codonPairBias,Codon pair bias
+CDS length,CDS,CDSLength,CDS length
+Linear protein motifs,CDS,linearProteinMotifs,ELM motifs
+RNA binding proteins,UTR3,RBPs,RBPs
+PEST motifs,CDS,pestMotifs,PEST
+CDS amino acid motifs,CDS,CDS_AA_Motifs,CDS AA motifs
+microRNAs,UTR3,miRNAs,miRNAs
+upstream AUGs,UTR5,UTR5_ATG,uAUGs
+3' UTR motifs,UTR3,UTR3_Motifs,3'UTR Motifs
+Start codon context,UTR5,kozakSequence,Kozak Seq
+m6A RNA modification,CDS,m6ARNAModification,m6A
+N-terminus amino acids,CDS,nEndA_,N-term AA
+CDS motifs,CDS,CDS_Motifs,CDS motifs
+Stop codon context,UTR3,stopCodonContext,Stop codon context
+Protein complex formation,CDS,proteinComplexFormation,Protein complex
+5' UTR folding energy,UTR5,UTR5FE,5' UTR folding en.
+5' UTR motifs,UTR5,UTR5_Motifs,5' UTR motifs
+5' UTR GC percent,UTR5,UTR5GCPercent,5' UTR GC
+3' UTR GC percent,UTR3,UTR3GCPercent,3' UTR GC
+CDS GC percent,CDS,CDSGCPercent,CDS GC
+5 ' UTR length,UTR5,UTR5Length,5' UTR length
+3' UTR length,UTR3,UTR3Length,3' UTR length
+3' UTR Sequence Elements,UTR3,UTR3SeqEl,All 3' UTR
+5' UTR Sequence Elements,UTR5,UTR5SeqEl,All 5' UTR
+CDS Sequence Elements,CDS,CDSSeqEl,All CDS
+Protein phosphorylation sites,CDS,phospSites,Pro. Phosphorylation
+Protein acetylation sites,CDS,aceSites,Pro. Acetylation
+Protein ubiquitination sites,CDS,ubiqSites,Pro. Ubiquitination
+Protein methylation sites,CDS,methSites,Pro. Methylation
+Protein SUMOylation sites,CDS,sumoSites,Pro. Sumoylation
+Protein 5' end hydrophobicity,CDS,ntermHydro,Protein 5' end 
+Protein isoelectric point,CDS,proteinIP,Protein ISO
+Sequence features,coreSequence,coreSequenceFeatures,core sequence
+Amino acid frequency,CDS,aminoAcidUsage,AA frequency
